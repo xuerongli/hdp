@@ -8,6 +8,9 @@ Hadoop 还有一个常见的组件是资源调度框架 YARN ，Spark 等都可�
 构建于 MapReduce 之上的 Mahout 机器学习框架，
 序列化数据的 Avro，日志收集 Flume 等
 
+Spark、Storm、Flink
+ZooKeeper...
+
 2） Why Hadoop?
 
 小数据情况下，数据库的 B 树很快，但数据量一多，涉及大量的排序和合并，MapReduce 的优势就体现出来了！
